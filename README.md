@@ -1,6 +1,6 @@
 # Regent Street Commercial Assets Analysis
 
-Welcome to the Regent Street Commercial Assets Analysis project! This repository contains an analysis aimed at determining the risks and opportunities associated with the commercial assets on Regent Street in London. The analysis is focused on estimating energy savings potential, comparing energy efficiency, and identifying potential savings and key assets.
+This is a brief analysis of energy efficiency on Regent Street and surrounding area! This repository contains a brief analysis aimed at an intital identification of potential risks and opportunities associated with the commercial assets on Regent Street in London. The geospatial analysis is focused on estimating energy savings potential and trends of energy savings bands. 
 
 ## Files
 
